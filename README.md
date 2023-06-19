@@ -14,7 +14,7 @@ This repository contains code for a brain tumor detection project using the YOLO
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/alijawad07/brain-tumor-detection.git
+git clone https://github.com/alijawad07/brain-tumor-detection-yolov8-sam.git
 cd brain-tumor-detection
 ```
 
